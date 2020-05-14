@@ -2,7 +2,7 @@ name: PaNOSC - Data Transfer Pilot
 channels:
 - conda-forge
 dependencies:
-- matlibplot
+- matplotlib
 - time
 - pip
 - pip:
