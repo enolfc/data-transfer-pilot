@@ -1,16 +1,9 @@
-name: Data transfer pilot
+name: PaNOSC - Data Transfer Pilot
 channels:
 - conda-forge
 dependencies:
-- os
-- io
-- time
-- requests
 - matlibplot
-- h5py
-- H5Glance
-- Image
-- path
+- time
 - pip
 - pip:
   - git+https://github.com/EGI-Foundation/egi-notebooks-addons
