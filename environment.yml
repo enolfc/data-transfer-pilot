@@ -1,0 +1,19 @@
+name: Data transfer pilot
+channels:
+- conda-forge
+dependencies:
+- os
+- io
+- time
+- requests
+- matlibplot
+- h5py
+- H5Glance
+- Image
+- path
+- pip
+- pip:
+  - git+https://github.com/EGI-Foundation/egi-notebooks-addons
+  - git+https://github.com/enolfc/fs-onedatafs.git@notebooks
+  - git+https://github.com/enolfc/onedatafs.git@19.02.0-rc2
+  - git+https://github.com/onedata/onedatafs-jupyter.git
