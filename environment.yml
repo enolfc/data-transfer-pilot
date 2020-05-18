@@ -7,6 +7,6 @@ dependencies:
 - pip
 - pip:
   - git+https://github.com/EGI-Foundation/egi-notebooks-addons
-  - git+https://github.com/enolfc/fs-onedatafs.git@notebooks
-  - git+https://github.com/enolfc/onedatafs.git@19.02.0-rc2
-  - git+https://github.com/onedata/onedatafs-jupyter.git
+  - git+https://github.com/onedata/fs-onedatafs.git@19.02.1
+  - git+https://github.com/enolfc/onedatafs.git@19.02.1
+  - git+https://github.com/onedata/onedatafs-jupyter.git19.02.1
