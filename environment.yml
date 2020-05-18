@@ -3,8 +3,7 @@ channels:
 - conda-forge
 dependencies:
 - matplotlib
-- time
-- Image
+- pillow
 - pip
 - pip:
   - git+https://github.com/EGI-Foundation/egi-notebooks-addons
