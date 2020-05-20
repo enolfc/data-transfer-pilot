@@ -10,3 +10,4 @@ dependencies:
   - git+https://github.com/onedata/fs-onedatafs.git@19.02.2
   - git+https://github.com/enolfc/onedatafs.git@19.02.1
   - git+https://github.com/onedata/onedatafs-jupyter.git@19.02.2
+  - h5glance
